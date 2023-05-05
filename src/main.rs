@@ -1,5 +1,10 @@
  
 
 fn main() {
-    println!("ciao")
+    let mut ciao: &str = "ciao";
+    
+    println!(&ciao);
+
+
+
 }
