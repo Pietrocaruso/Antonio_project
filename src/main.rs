@@ -1,9 +1,9 @@
  
 
 fn main() {
-    let mut ciao: &str = "ciao";
+    let mut ciao = "ciao";
     
-    println!(&ciao);
+    println!("{}",ciao);
 
 
 
